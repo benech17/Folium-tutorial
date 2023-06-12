@@ -1,4 +1,4 @@
-<img align="left" width="80" height="80"  src="logo.png" alt="logo">
+<img align="left" width="80" height="80"  src="asset/logo.png" alt="logo">
 
 # Folium Tutorial 
 
