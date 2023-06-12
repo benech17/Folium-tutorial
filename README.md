@@ -4,8 +4,7 @@
 
 
 
-
- ![overlay](https://miro.medium.com/max/2712/1*os3Fd-HqNBg25n_eAobTPw.gif)
+ ![overlay](asset/folium-presentation.gif)
 
 # Sommaire
 > ### [1. Qu'est ce que Folium ](#1)
@@ -33,7 +32,6 @@
 > > * [4.2 Les cartes choroplèthes](#42)
 > > * [4.3 Les cartes superposées (overlay)](#43)
 > > * [4.4 Les Heat Map](#44)
-> > * [4.5 Heat Map!](#45)
 > 
 > 
 > ### [5. Pour aller plus loin : Les Maps intéractives](#5)
